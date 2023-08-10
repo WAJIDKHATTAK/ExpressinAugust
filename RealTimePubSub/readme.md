@@ -1,0 +1,1 @@
+Using EventEmitter to implement a basic pub-sub (publish-subscribe) system within an Express application. This can be useful for scenarios where you want to broadcast messages to multiple subscribers:
